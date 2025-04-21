@@ -1,0 +1,2 @@
+torch.save(model, 'bbn_density.pth')
+bnn = torch.load('bbn_density.pth')
